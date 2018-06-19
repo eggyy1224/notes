@@ -18,8 +18,8 @@ end
 ### 5. `git checkout -b xxxx remote-name/xxxx` -> pull a remote branch to local machine
 ### 6. redis-cli -> 進入redis console, flushdb -> 清掉資料庫
 ## 2018/06/12
-###1.每天記錄用到的gem功能為何。
-###2.看別人的ＰＲ！！
+### 1.每天記錄用到的gem功能為何。
+### 2.看別人的ＰＲ！！
 
 ## 2018/06/13
 ### 1. 到貨通知分類批次寄信功能需要用背景排程(sidekiq)。
